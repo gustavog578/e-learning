@@ -10,18 +10,7 @@
                       <li class="nav-item mx-0 mx-lg-1"><router-link :to="{ name: 'Activities' }" class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger">Activities</router-link></li>                      
                       <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="/#about">About us</a></li>
                       <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="/#contact">Contact</a></li>
-                     <!--<form
-                        id="app"
-                        @submit="checkForm"
-                        action="https://vuejs.org/"
-                        method="post"
-                        novalidate="true"
-                        >   
-                        <input v-model="usuario" placeholder="username">
-                        <input v-model="password" placeholder="Password">
-
-                     </form>-->
-                      
+                   
                   </ul>
               </div>
           </div>
